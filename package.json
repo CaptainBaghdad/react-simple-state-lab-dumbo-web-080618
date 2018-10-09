@@ -34,5 +34,20 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "mocha": "^5.2.0",
     "sinon": "^6.1.0"
-  }
+  },
+  "description": "1. Practice setting initial state\r 2. Practice deriving initial state from props\r 3. Practice updating state with event listeners/handlers",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptainBaghdad/react-simple-state-lab-dumbo-web-080618.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaptainBaghdad/react-simple-state-lab-dumbo-web-080618/issues"
+  },
+  "homepage": "https://github.com/CaptainBaghdad/react-simple-state-lab-dumbo-web-080618#readme"
 }
